@@ -1,1 +1,1 @@
-# al-learning-path
+# ai-learning-path
