@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the AI Learning Platform Backend!"}
+    return {"message": "Welcome to the AI Learning Path's Backend!"}
